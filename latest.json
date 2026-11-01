@@ -1,0 +1,10 @@
+{
+  "version": "0.6.2",
+  "pub_date": "2026-11-01T13:57:43.516Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmNjMlEzemRLNFJRbU80eDQ3TXc1bzg2NVI2QzdMMlBROE9HV3F2Ny8xY0tzQnNBQVpqUjJEYWdMZ3dYakNjYnRBRDJ4NjVxNThURmR3NGdmbzFjL29HUFRNYllyL2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQxNDU5CWZpbGU6RkVNVF8wLjYuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC42LjIKUVA2OVpudkY3QmxIVi9yM3hkakdpUnpucU4yWW8zcUdxbDdXZnFwdmtNbW9kOHYrVSs5dzZxOXNiWFFBQk1aekhFaTJNQmVSZE5BaHpYWTMrZ0k4QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/jamy-sky/femt-releases/main/FEMT-Setup-0.6.2.exe"
+    }
+  }
+}
