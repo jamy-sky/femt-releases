@@ -41,6 +41,24 @@ and your notes are saved first.
 - **Prayers** (the book above Settings): every prayer FEMT Lite uses, to reword as you like. Restoring one brings
   back the original.
 
+## A look inside
+
+These show an example person born in London; yours will show your own chart and city.
+
+**Celestial Alignment**, on the Clock: the gospel of the day, then the day and night hours side by side, with the
+prayers and action items in their hours and the month on the right.
+
+![Celestial Alignment's Clock, with the day hours on the left and the night hours on the right](images/alignment.png)
+
+**Calendar:** the month rated for one concern at a time, with the chosen day's lunar day, the Moon's course and how
+each tradition rates it.
+
+![The Calendar for November 2026, rated for money and gain](images/calendar.png)
+
+**Chart:** the birth chart in the inner wheel and today's transits around it.
+
+![A birth chart with today's transits](images/chart.png)
+
 ## Phone alerts (ntfy)
 
 FEMT Lite can send Celestial Alignment's action windows to your phone through [ntfy](https://ntfy.sh), a free
