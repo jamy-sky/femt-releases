@@ -1,0 +1,10 @@
+{
+  "version": "0.6.4",
+  "pub_date": "2026-11-06T12:37:49.088Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZmNjMlEzemRLNFpneE1Zdko2UnJrcElsTStPRTdodm54U0tVOWsrZ2hkRk5TQlBkcjNDeFpxNXBvMng4OXFhRTBSMDEyZmh6NVJLbm90akxYY051bXFOQ296NG80WFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTY4NjY2CWZpbGU6RkVNVCBMaXRlXzAuNi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjYuNApKRzZoZWxERG1sRlpGMEFMYm1MTUlzV0x3MGo3YjQyUWdHNnNEeXMrckRhc0NxRk15eExFMzV4dXF6di9QR0dSbkpzeWV2dzFDQzB1alB2WmZyQVNCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/jamy-sky/femt-releases/main/lite/FEMT-Lite-Setup-0.6.4.exe"
+    }
+  }
+}
