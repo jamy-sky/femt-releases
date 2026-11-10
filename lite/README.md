@@ -6,7 +6,8 @@ enter stays on your computer.
 
 ## Install
 
-Download the newest `FEMT-Lite-Setup-<version>.exe` from this folder and run it. Windows may warn that the
+Download the newest `FEMT-Lite-Setup-<version>.exe` from the
+[latest release](https://github.com/jamy-sky/femt-releases/releases/latest) and run it. Windows may warn that the
 publisher is unknown, because the installer isn't signed with a Windows certificate: choose **More info**, then
 **Run anyway**. FEMT Lite installs for your Windows account only and doesn't need administrator rights.
 
